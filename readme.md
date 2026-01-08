@@ -114,12 +114,12 @@ http://127.0.0.1:5000/
 
 ### Deployment Steps: 
 
-Code pushed to GitHub 
-Render connected to GitHub repository 
-Python runtime selected 
+Code pushed to GitHub   
+Render connected to GitHub repository   
+Python runtime selected   
  
-### Build command: 
-pip install -r requirements.txt 
+### Build command:   
+pip install -r requirements.txt   
 
 ### Start command: 
 gunicorn app:app 
@@ -127,24 +127,24 @@ gunicorn app:app
 ---
 
 ## 📌 Note: 
-On free plan, the application goes to sleep after inactivity and takes ~50 seconds to restart. 
+On free plan, the application goes to sleep after inactivity and takes ~50 seconds to restart.   
 
 ---
 
-### 🎯 Use Cases
+### 🎯 Use Cases  
 
-Academic mini project 
-Computer Vision practice 
-Flask deployment learning 
-ML portfolio project 
-Interview demonstration project 
+Academic mini project   
+Computer Vision practice   
+Flask deployment learning    
+ML portfolio project   
+Interview demonstration project   
 
 ---
 
 ## ⚠️ Limitations 
-Detection accuracy depends on image quality 
-Free hosting has cold-start delay 
-Not optimized for real-time video processing 
+Detection accuracy depends on image quality   
+Free hosting has cold-start delay   
+Not optimized for real-time video processing   
 
 --- 
 
@@ -167,4 +167,4 @@ Submit a pull request
 ---
 
 ### 📧 Contact 
-For queries or suggestions, feel free to connect. 
+For queries or suggestions, feel free to connect.   
