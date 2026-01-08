@@ -60,6 +60,7 @@ This project helps in understanding how **Machine Learning models can be integra
 
 ---
 ## 📂 Project Structure
+
 Detect-and-Count-Vehicle/
 │
 ├── app.py # Main Flask application
@@ -70,12 +71,6 @@ Detect-and-Count-Vehicle/
 └── README.md # Documentation
 ---
 ---
-## 🖼️ Screenshots
-
-> Add screenshots of:
-- Home page
-- Image upload page
-- Vehicle detection output
 
 ## 🖼️ Screenshots
 ### Home Page
