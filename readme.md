@@ -68,10 +68,8 @@ Detect-and-Count-Vehicle/
 ├── static/ # CSS, images, assets
 ├── templates/ # HTML templates
 └── README.md # Documentation
-
-
 ---
-
+---
 ## 🖼️ Screenshots
 
 > Add screenshots of:
@@ -80,7 +78,6 @@ Detect-and-Count-Vehicle/
 - Vehicle detection output
 
 ## 🖼️ Screenshots
-
 ### Home Page
 ![Home Page](screenshots/home.png)
 
@@ -89,8 +86,8 @@ Detect-and-Count-Vehicle/
 
 ### Detection Result
 ![Result Page](screenshots/result.png)
-
-
+---
+---
 ## 🚀 How to Run Locally
 ### 1️⃣ Clone the repository
 ```bash
@@ -107,13 +104,13 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Flask app
 python app.py
 
-###5️⃣ Open in browser
+### 5️⃣ Open in browser
 http://127.0.0.1:5000/
 
-## ☁️ Deployment on Render (Interview Explanation)
+---
 
-#### This project is deployed on Render (Free Plan).
-
+#### ☁️ This project is deployed on Render (Free Plan).
+---
 ### Deployment Steps:
 Code pushed to GitHub
 Render connected to GitHub repository
@@ -124,38 +121,33 @@ pip install -r requirements.txt
 
 ### Start command:
 gunicorn app:app
-
-
+---
 ## 📌 Note:
 On free plan, the application goes to sleep after inactivity and takes ~50 seconds to restart.
-
+---
 ### 🎯 Use Cases
-
 Academic mini project
 Computer Vision practice
 Flask deployment learning
 ML portfolio project
 Interview demonstration project
-
+---
 ## ⚠️ Limitations
 Detection accuracy depends on image quality
 Free hosting has cold-start delay
 Not optimized for real-time video processing
-
+---
 ## 🔮 Future Improvements
-
 Real-time vehicle detection using video
 YOLO / Deep Learning-based detection
 Vehicle classification (car, bike, bus, truck)
 Database to store detection results
-
+---
 ## 🤝 Contribution
-
 Contributions are welcome!
 Fork the repository
 Create a new branch
 Submit a pull request
-
-📧 Contact
+---
+### 📧 Contact
 For queries or suggestions, feel free to connect.
-
