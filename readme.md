@@ -150,18 +150,18 @@ Not optimized for real-time video processing
 
 ## 🔮 Future Improvements
 
-Real-time vehicle detection using video 
-YOLO / Deep Learning-based detection 
-Vehicle classification (car, bike, bus, truck) 
-Database to store detection results 
+Real-time vehicle detection using video  
+YOLO / Deep Learning-based detection  
+Vehicle classification (car, bike, bus, truck)  
+Database to store detection results  
 
 ---
 
-## 🤝 Contribution 
+## 🤝 Contribution  
 
-Contributions are welcome! 
-Fork the repository 
-Create a new branch 
+Contributions are welcome!  
+Fork the repository   
+Create a new branch   
 Submit a pull request 
 
 ---
