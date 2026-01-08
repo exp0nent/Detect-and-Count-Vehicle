@@ -79,19 +79,19 @@ Detect-and-Count-Vehicle/
 - Image upload page
 - Vehicle detection output
 
-📌 You can place images inside a `screenshots/` folder and update this section later.
+## 🖼️ Screenshots
 
-Example:
-screenshots/
-├── home.png
-├── upload.png
-└── result.png
+### Home Page
+![Home Page](screenshots/home.png)
 
+### Image Upload
+![Upload Page](screenshots/upload.png)
 
----
+### Detection Result
+![Result Page](screenshots/result.png)
+
 
 ## 🚀 How to Run Locally
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/exp0nent/Detect-and-Count-Vehicle.git
@@ -127,7 +127,7 @@ gunicorn app:app
 
 
 ## 📌 Note:
-On free plan, the application goes to sleep after inactivity and takes ~30 seconds to restart.
+On free plan, the application goes to sleep after inactivity and takes ~50 seconds to restart.
 
 ### 🎯 Use Cases
 
